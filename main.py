@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 API_TOKEN = '8377914455:AAECZpNv-XsRpgYg7i-EHFVRqdRy1FMzCwg'
 
 # ID админов (укажите свой ID через запятую)
-ADMIN_IDS = [8466364543]  # ЗАМЕНИТЕ НА СВОЙ ID!
+ADMIN_IDS = [8531708928]  # ЗАМЕНИТЕ НА СВОЙ ID!
 
 # Ссылка на фото для профиля
 PROFILE_PHOTO_URL = "https://i.yapx.ru/coj0i.png"
